@@ -4,7 +4,7 @@ import Sidebar from "./Componentes/Sidebar";
 import GameCard from "./Componentes/GameCard";
 import GameModal from "./Componentes/GameModal";
 
-import bayonettaImg from "./assets/Bayonetta.jpg";
+import stardewImg from "./assets/StardewValley.jpg";
 import celesteImg from "./assets/Celeste.jpg";
 import hadesImg from "./assets/Hades.jpg";
 import silksongImg from "./assets/Silksong.jpg";
@@ -31,11 +31,11 @@ const games = [
     accent: "green",
   },
   {
-    title: "Bayonetta",
-    studio: "PlatinumGames",
-    genre: "Hack and Slash",
-    image: bayonettaImg,
-    description: "Bayonetta es una bruja con poderes increíbles y armas en sus extremidades. Lucha contra innumerables ángeles en batallas llenas de estilo y combos deslumbrantes.",
+    title: "Stardew Valley",
+    studio: "ConcernedApe",
+    genre: "Simulación de Granjas",
+    image: stardewImg,
+    description: "Acabas de heredar la vieja granja de tu abuelo en Stardew Valley. Decide si quieres cultivar, criar animales, minar, pescar o interactuar con los habitantes del pueblo.",
     action: "Ver Detalles",
     accent: "violet",
   },
